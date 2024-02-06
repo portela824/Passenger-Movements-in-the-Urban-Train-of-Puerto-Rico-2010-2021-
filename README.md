@@ -21,14 +21,12 @@ The following has been written in both Spanish and English:
     - Handling Categorical Data
     - Data Transformation
     - Outlier Detection
-    - Removing Duplicates
     - Encoding Date and Time
     - Handling Time Series Data
 2. Data Processing:
     - Data Validation
     - Data mining
     - Data Filtering
-    - Hypothesis Testing
     - Forecasting
     - Data Visualization
  
@@ -54,29 +52,10 @@ The following has been written in both Spanish and English:
 
 
 # Project Description
+The assessment involves scrutinizing fluctuations and patterns of passenger movement at various stations over time, with a specific focus on their impact on public transportation, particularly trains, throughout the specified time frame. The objective is to evaluate the overarching effect, if any, on public transportation systems, giving special attention to the train infrastructure. This comprehensive analysis aims to identify trends, anticipate challenges, and inform strategic decision-making for optimizing the efficiency and adaptability of the public transportation network, with a specific emphasis on the train services.
 
-
-
-# Insights
-  - Dataset inconsistency.
-  - Difficulties with adressing the code for the Forecasting.
-  - Analysis Results:
-     1.Test results indicated differences between the variations.
-     2.Upon visual inspection, no noticeable difference was observed.
-
-# Conclusion
-  To optimize the user experience, it is recommended to leverage the insights gained from the A/B test results. Given the slightly higher completion rate in the 'Test' variation, a detailed analysis of the design elements contributing to this improvement is crucial. Exploring the reasons behind the increased average time spent in the 'Test' variation can uncover a greater engagement and potential usability enhancements. Addressing NaN error rates is essential, to confirm the absence of critical issues or, conversely, understand why errors may not have been recorded. Additionally, a thorough evaluation of the cost-effectiveness of the redesign is necessary, considering the observed completion rate increase did not meet the 5% threshold. Tailoring marketing strategies based on the significant difference in average age between variations can enhance communication effectiveness. Continuous monitoring, iterative improvements, user segmentation, and a long-term impact assessment will collectively contribute to a comprehensive and effective strategy for sustained success.
-
-# References
-  data-bootcamp-v4. (2023). Lessons - 5_6_eda_inf_stats_tableau project. GitHub Repository. https://github.com/data-bootcamp-v4/lessons/tree/main/5_6_eda_inf_stats_tableau/project/files_for_project
-
-
-
-
-
-
-
-
+# Conclusion & # Insights
+Both total entries and total exits exhibit similar trends, indicating a notable correlation between these two variables. The observed fluctuations in both series may suggest the presence of seasonal or periodic influences on passenger movement. Interestingly, forecasts project a decline in both total entries and total exits over the projected period. To achieve a comprehensive analysis, consideration of external factors such as economic conditions, public health situations, and transportation policies is essential. Valuable insights can be gained through stakeholder feedback, providing additional context and understanding of the factors influencing passenger movement. To enhance forecasting and decomposition analyses, a recommendation is made to explore the development of sophisticated machine learning models. These models can contribute to more accurate predictions and a nuanced understanding of underlying patterns. The implications for public transportation encompass strategic service planning and resource allocation, operational adjustments, technology integration, effective communication strategies, and the adaptation of systems to external shocks.
 
 # References:
 Autoridad de Transporte Integrado. (2021, March 17).Número de Pasajeros del Tren Urbano (Patrocinio).Indicadores.PR.https://indicadores.pr/dataset/numero-de-pasajeros-del-tren-urbano
