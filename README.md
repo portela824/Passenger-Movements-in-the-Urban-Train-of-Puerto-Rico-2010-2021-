@@ -1,4 +1,4 @@
-# Transportacion-FinalProject-IronHack
+# Decoding Transit Trends: Analyzing Passenger Movements in the Urban Train of Puerto Rico (2010-2021)
 
 # Project objective
 **Contex:** 
@@ -54,7 +54,7 @@ The following has been written in both Spanish and English:
 # Project Description
 The assessment involves scrutinizing fluctuations and patterns of passenger movement at various stations over time, with a specific focus on their impact on public transportation, particularly trains, throughout the specified time frame. The objective is to evaluate the overarching effect, if any, on public transportation systems, giving special attention to the train infrastructure. This comprehensive analysis aims to identify trends, anticipate challenges, and inform strategic decision-making for optimizing the efficiency and adaptability of the public transportation network, with a specific emphasis on the train services.
 
-# Conclusion & # Insights
+# Conclusion &  Insights
 Both total entries and total exits exhibit similar trends, indicating a notable correlation between these two variables. The observed fluctuations in both series may suggest the presence of seasonal or periodic influences on passenger movement. Interestingly, forecasts project a decline in both total entries and total exits over the projected period. To achieve a comprehensive analysis, consideration of external factors such as economic conditions, public health situations, and transportation policies is essential. Valuable insights can be gained through stakeholder feedback, providing additional context and understanding of the factors influencing passenger movement. To enhance forecasting and decomposition analyses, a recommendation is made to explore the development of sophisticated machine learning models. These models can contribute to more accurate predictions and a nuanced understanding of underlying patterns. The implications for public transportation encompass strategic service planning and resource allocation, operational adjustments, technology integration, effective communication strategies, and the adaptation of systems to external shocks.
 
 # References:
